@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mcol-org/matt-test-public#readme",
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.21"
   }
 }
