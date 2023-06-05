@@ -1,0 +1,22 @@
+{
+  "name": "matt-test-public",
+  "version": "1.0.0",
+  "description": "quick change another quick change making pizza making cheese making burgers making cheese making cheese burgers testing 1 2 fdfd dfdfd kjhdkjhf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcol-org/matt-test-public.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcol-org/matt-test-public/issues"
+  },
+  "homepage": "https://github.com/mcol-org/matt-test-public#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
